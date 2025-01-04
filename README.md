@@ -33,13 +33,7 @@ Hello! I'm **Vaishnavi Prajapati**, a passionate **Computer Science student** wi
 
 ---
 
-## 🎯 Goals & Aspirations
 
-- 🌐 Secure a **summer internship at IIT Delhi** working on **innovative research**  
-- 💼 **FAANG dream**: Aim for top tech roles to make impactful contributions  
-- 💪 Promote **gender equality** and **financial independence** through tech solutions
-
----
 
 ## 🏆 Work Experience
 
