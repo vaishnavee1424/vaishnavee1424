@@ -1,10 +1,68 @@
-<h3 align="center">A passionate frontend developer from India</h3>
+# 🌟 Vaishnavi Prajapati  
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/vaishnavi-prajapati) [![GitHub](https://img.shields.io/github/followers/yourusername?label=Follow&style=social)](https://github.com/yourusername)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+Hello! I'm **Vaishnavi Prajapati**, a passionate **Computer Science student** with a love for solving complex problems, building amazing projects, and making a difference through technology.
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vaishnavee1424&show_icons=true&locale=en&layout=compact" alt="vaishnavee1424" /></p>
+---
+
+## 🚀 Skills & Technologies
+
+🎨 **Frontend**: HTML, CSS, JavaScript  
+💻 **Programming**: Python, Java  
+📊 **Data Science & Machine Learning**: NumPy, Pandas, Matplotlib, Seaborn, Linear & Logistic Regression, Random Forest  
+🔧 **Tools & Platforms**: Jupyter Notebook, Visual Studio Code, WordPress, SQL
+
+---
+
+## 💼 Projects
+
+### 🔹 **Car Price Prediction**
+- 🛠 Built a prediction model using **Python libraries**: NumPy, Pandas, Matplotlib
+- 🚀 Improved accuracy by 20% with advanced machine learning techniques
+
+### 🔹 **Sleep Disorder Prediction**
+- 🏥 Developed a predictive model using **Seaborn** and **Matplotlib**
+- 🤖 Focused on healthcare data analysis for sleep disorder insights
+
+### 🔹 **Interactive Web Interface for Hand Gesture Brightness Control**
+- 🌟 Combined **machine learning** and **robotics** to control brightness using hand gestures
+
+### 🔹 **Salary Prediction System**
+- 📈 Created a salary prediction model using **Linear Regression** and **Random Forest**
+
+---
+
+## 🎯 Goals & Aspirations
+
+- 🌐 Secure a **summer internship at IIT Delhi** working on **innovative research**  
+- 💼 **FAANG dream**: Aim for top tech roles to make impactful contributions  
+- 💪 Promote **gender equality** and **financial independence** through tech solutions
+
+---
+
+## 🏆 Work Experience
+
+**Ramam Corporation of Groups** (March 2024 - April 2024)
+- 🏗 Optimized database queries and maintained complex web apps with WordPress
+
+**Oasis Infobyte** (Nov 2023 - Dec 2023)
+- 🔍 Enhanced car price prediction models, boosting accuracy by 20%
+
+---
+
+## 📬 Let's Connect
+
+- 📧 Email: [your-email@example.com](mailto:your-email@example.com)
+- 🔗 LinkedIn: [linkedin.com/in/vaishnavi-prajapati](https://www.linkedin.com/in/vaishnavi-prajapati)
+- 🐙 GitHub: [github.com/yourusername](https://github.com/yourusername)
+
+---
+
+## ✨ Fun Facts
+
+- 🔍 Love analyzing **complex data** and uncovering hidden patterns  
+- 📚 Lifelong learner aiming to **master the latest technologies**  
+- 🌈 Passionate about **innovation** and making a **positive impact** through code
+
+Thanks for visiting my profile! Explore my repositories and let's build something amazing together! 😄
