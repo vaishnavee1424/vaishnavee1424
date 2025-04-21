@@ -49,7 +49,7 @@ Hello! I'm **Vaishnavi Prajapati**, a passionate **Computer Science student** wi
 
 - 📧 Email: [your-email@example.com](mailto:your-email@example.com)
 - 🔗 LinkedIn: [linkedin.com/in/vaishnavi-prajapati](https://www.linkedin.com/in/vaishnavi-prajapati)
-- 🐙 GitHub: [github.com/yourusername](https://github.com/yourusername)
+- 🐙 GitHub: [github.com/yourusername](https://github.com/vaishnavee_1424)
 
 ---
 
