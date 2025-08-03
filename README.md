@@ -8,50 +8,11 @@ Hello! I'm **Vaishnavi Prajapati**, a passionate **Computer Science student** wi
 
 ## 🚀 Skills & Technologies
 
-🎨 **Frontend**: HTML, CSS, JavaScript  
-💻 **Programming**: Python, Java  
+🎨 **Full Stack development**: HTML, CSS, JavaScript ,Reactjs Redux,Mongodb, Express.js 
+💻 **Programming**:  Java  
 📊 **Data Science & Machine Learning**: NumPy, Pandas, Matplotlib, Seaborn, Linear & Logistic Regression, Random Forest  
 🔧 **Tools & Platforms**: Jupyter Notebook, Visual Studio Code, WordPress, SQL
 
----
-
-## 💼 Projects
-
-### 🔹 **Car Price Prediction**
-- 🛠 Built a prediction model using **Python libraries**: NumPy, Pandas, Matplotlib
-- 🚀 Improved accuracy by 20% with advanced machine learning techniques
-
-### 🔹 **Sleep Disorder Prediction**
-- 🏥 Developed a predictive model using **Seaborn** and **Matplotlib**
-- 🤖 Focused on healthcare data analysis for sleep disorder insights
-
-### 🔹 **Interactive Web Interface for Hand Gesture Brightness Control**
-- 🌟 Combined **machine learning** and **robotics** to control brightness using hand gestures
-
-### 🔹 **Salary Prediction System**
-- 📈 Created a salary prediction model using **Linear Regression** and **Random Forest**
-
----
-
-
-
-## 🏆 Work Experience
-
-**Ramam Corporation of Groups** (March 2024 - April 2024)
-- 🏗 Optimized database queries and maintained complex web apps with WordPress
-
-**Oasis Infobyte** (Nov 2023 - Dec 2023)
-- 🔍 Enhanced car price prediction models, boosting accuracy by 20%
-
----
-
-## 📬 Let's Connect
-
-- 📧 Email: [your-email@example.com](mailto:your-email@example.com)
-- 🔗 LinkedIn: [linkedin.com/in/vaishnavi-prajapati](https://www.linkedin.com/in/vaishnavi-prajapati)
-- 🐙 GitHub: [github.com/yourusername](https://github.com/vaishnavee_1424)
-
----
 
 ## ✨ Fun Facts
 
